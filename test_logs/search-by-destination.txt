@@ -1,0 +1,36 @@
+Test Case log for: Search by destination
+
+Search icon appeared
+
+Search box appeared
+
+Destination filter appeared
+
+####################
+Search for: Canada
+
+Waiting for search results
+
+Output: 11 Search Results
+
+####################
+Search for: Europe
+
+Waiting for search results
+
+Output: 20 Search Results
+
+####################
+Search for: International
+
+Waiting for search results
+
+Output: 5 Search Results
+
+####################
+Search for: Tuvalu
+
+Waiting for search results
+
+No result found
+
